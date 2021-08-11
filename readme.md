@@ -1,0 +1,1 @@
+Yaptıgım taslak projeler ve taslak kodları içermektedir

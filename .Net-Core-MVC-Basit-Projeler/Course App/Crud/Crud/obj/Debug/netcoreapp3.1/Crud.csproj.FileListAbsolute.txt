@@ -1,0 +1,344 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.xml
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\scopedcss\bundle\Crud.styles.css
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.input.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.output.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorCoreGenerate.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_KendiLayoutum.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Basic-CRUD-App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.xml
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\scopedcss\bundle\Crud.styles.css
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.input.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.output.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorCoreGenerate.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_KendiLayoutum.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Course\TumEgitimler.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\index.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Egitmenkaydet.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EğitmenKaydıBaşarılı.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EgitimcilerBolumu.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.pdb
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.AssemblyReference.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.MvcApplicationPartsAssemblyInfo.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.xml
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\scopedcss\bundle\Crud.styles.css
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.input.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.output.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorCoreGenerate.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EgitimcilerBolumu.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Egitmenkaydet.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EğitmenKaydıBaşarılı.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Course\TumEgitimler.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_KendiLayoutum.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cs
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.Views.pdb
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.pdb
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache
+E:\Tüm Projeler\.Net-Core-MVC-Basit-Projeler\Course App\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Admin\index.cshtml.g.cs

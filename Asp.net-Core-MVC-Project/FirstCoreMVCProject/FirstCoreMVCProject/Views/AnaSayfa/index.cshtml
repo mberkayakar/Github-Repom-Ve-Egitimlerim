@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+<!--// Burası razor cod blogudur. veri tabanından gelen verilerin erişimi için gerekmektedir.-->
+<!--  Elle yapılmış bir razor bloguy yapacağım-->
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Berkay AKAR</title>
+
+
+   
+</head>
+<body>
+    <style>
+        table, th, td {
+            border: 1px solid blue;
+            border-collapse: collapse;
+        }
+    </style>
+    @{
+    var sayi1=10;
+    var sayi2=20;
+    var toplam=sayi1+sayi2;
+    }
+    <h1>Razor Örneği :  </h1>
+    <table  >
+        <tr>
+            <th> 1.sayı </th>
+            <th> 2.sayı </th>
+            <th> Toplam :</th>
+
+        </tr>
+        <tr>
+            <td> @sayi1</td>
+            <td> @sayi2</td>
+            <td> @sayi1+@sayi2 = @toplam</td>
+        </tr>
+    </table>
+</body>
+</html>

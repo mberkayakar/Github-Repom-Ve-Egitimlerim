@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Egitmen>
+@{
+    ViewData["Title"] = "EgitimcilerBolumu";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h1 class="m-4" style="text-align:center">Egitimciler Bolumu</h1>
+
+<table class="table table-dark m-4">
+    <thead>
+        <tr>
+
+            <th scope="col">İd</th>
+            <th scope="col">İsim</th>
+            <th scope="col">Soyisim</th>
+            <th scope="col">Telefon</th>
+            <th scope="col">e-mail</th>
+            <th scope="col">Açıklama</th>
+            <th scope="col">Fotograf</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var i in Model)
+        {
+        <tr>
+            <td>@i.id</td>
+            <td>@i.isim</td>
+            <td>@i.soyisim</td>
+            <td>@i.Telefon</td>
+            <td>@i.email</td>
+            <td>@i.açiklama</td>
+            <td>@i.Fotograf</td>
+
+        </tr>
+                }
+       
+
+        </tbody>
+</table>

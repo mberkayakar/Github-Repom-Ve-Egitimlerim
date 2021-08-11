@@ -1,0 +1,7 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

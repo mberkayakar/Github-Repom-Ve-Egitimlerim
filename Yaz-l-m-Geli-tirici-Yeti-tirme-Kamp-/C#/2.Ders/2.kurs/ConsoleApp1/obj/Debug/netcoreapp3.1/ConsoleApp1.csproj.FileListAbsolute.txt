@@ -1,0 +1,13 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-\C#\2.Ders\2.kurs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

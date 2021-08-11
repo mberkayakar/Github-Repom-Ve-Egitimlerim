@@ -1,0 +1,1 @@
+Staj süresi içeriisndeki karaladığım konu anlatımlı repom

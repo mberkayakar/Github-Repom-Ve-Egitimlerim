@@ -1,0 +1,63 @@
+﻿
+
+@model Egitmen
+
+
+@{
+    ViewData["Title"] = "Egitmenkaydet";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+ 
+<section class="m-4">
+
+    <h4 style=" text-align: center">Eğitmen Ekle</h4>
+    <br>
+
+
+    <form asp-action="Egitmenkaydet" method="post">
+        <div asp-validation-summary="All"></div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="id" class="col-form-label">İd</label> </div>
+            <div class="col-10"> <input asp-for="id"  class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="isim" class="col-form-label">İsim</label> </div>
+            <div class="col-10"> <input asp-for="isim" class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="soyisim" class="col-form-label">Soyisim</label> </div>
+            <div class="col-10"> <input asp-for="soyisim" class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="Telefon" class="col-form-label">Telefon</label> </div>
+            <div class="col-10"> <input asp-for="Telefon" class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="email" class="col-form-label">E-mail</label> </div>
+            <div class="col-10"> <input asp-for="email" class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="açiklama" class="col-form-label">Açıklama</label> </div>
+            <div class="col-10"> <input asp-for="açiklama" class="form-control"> </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label asp-for="Fotograf"class="col-form-label" >Fotograf</label> </div>
+            <div class="col-10"> <input asp-for="Fotograf" class="form-control"> </div>
+        </div>
+ 
+
+        <div style="text-align: center">
+            <button type="submit" class="btn btn-success btn-outline-light" > Kaydet   </button>
+        </div>
+    </form>
+
+
+</section>

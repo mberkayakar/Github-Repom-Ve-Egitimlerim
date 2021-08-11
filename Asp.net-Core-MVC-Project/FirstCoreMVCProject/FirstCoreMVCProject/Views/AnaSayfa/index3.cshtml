@@ -1,0 +1,40 @@
+﻿@model List<FirstCoreMVCProject.Entities.Costumers>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Müşteriler</title>
+<h1 style="text-align:center"> Sistemde Kayıtlı Olan Müşteriler :</h1>
+   
+<table>
+    <tr>
+        <th> İsim</th>
+        <th> Soyisim </th>
+        <th> Yas</th>
+
+    </tr>
+
+
+    @foreach (var i in Model)
+    {
+        <tr>
+            <td> @i.isim</td>
+            <td> @i.soyisim</td>
+            <td> @i.yas</td>
+        </tr>
+    }
+    <!-- Aynı sayfada Birden fazla model objesi döneceği zaman Partial Wiev Kullanılır. -->
+
+       
+    </table>
+    
+   
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,61 @@
+﻿@model Egitmen
+
+@{
+    ViewData["Title"] = "EğitmenKaydıBaşarılı";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<section class="m-4">
+ 
+
+    <h1 style="text-align:center; "> Kayıt Edilmiş Eğitmen</h1>
+    <h2 style="color: green "> Kayıt Başarı ile tamamlandı </h2>
+
+
+    <form>
+
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">İd</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.id </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">İsim</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.isim </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">Soyisim</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.soyisim </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">Telefon</label> </div>
+            <div class="col-10"> <input class="form-control" readonly> @Model.Telefon</div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">E-mail</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.email </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">Açıklama</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.açiklama </div>
+        </div>
+
+        <div class="row form-group row">
+            <div class="col-2">  <label class="col-form-label">Fotograf</label> </div>
+            <div class="col-10"> <input class="form-control" readonly>@Model.Fotograf </div>
+        </div>
+
+
+        <div style="text-align: center">
+            <button class="btn btn-success btn-outline-light"> Brawwwwwoooooooooo Fiyuuuuu   </button>
+        </div>
+    </form>
+
+</section>

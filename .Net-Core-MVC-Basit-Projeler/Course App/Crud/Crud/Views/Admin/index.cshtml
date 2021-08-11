@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+
+
+<div style="text-align:center">
+
+    <div id="divElement">
+
+
+        <h1> Admin Sayfası</h1>
+        <br />
+        <h3> Merhabalar Admin Sayfasına Hoşgeldiniz </h3>
+ 
+
+        <!-- Saat Göstergesi -->
+        <div class="row">
+            <div class="col-4"> </div>
+            <div class="col-4"> <span style="text-align: center;  font-size: 30px" id="time"></span></div>
+            <div class="col-4"> </div>
+        </div>
+
+
+    </div>
+
+    <!-- Saat Göstergesi -->
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- saat Çalışma Mekanizması -->
+<script>
+
+    var timeDisplay = document.getElementById("time");
+ 
+    function refreshTime() {
+        var dateString = new Date().toLocaleString("tr-TR", { timeZone: "Europe/Istanbul" });
+        var formattedString = dateString.replace(", ", " - ");
+        timeDisplay.innerHTML = formattedString;
+    }
+    setInterval(refreshTime, 1000);
+ 
+</script>
